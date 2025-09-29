@@ -1,5 +1,4 @@
-# NFL Game Winner Prediction - Brandon He
-
+# NFL Game Winner Prediction
 This notebook implements a machine learning pipeline to **predict the winners of NFL games** from Week 5 on of the 2025 NFL season, using team statistics and advanced metrics. 
 
 A **Random Forest Classifier** was used, trained on past games to generate predictions for upcoming games. The model leverages features such as:
