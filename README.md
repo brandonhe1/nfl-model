@@ -57,5 +57,3 @@ Each matchup is represented using **team-level performance metrics** and **advan
 - ⚔️ Experiment with **ensemble and deep learning models**
 
 ---
-
-Would you like me to add a short **“Installation & Usage”** section next (so people can clone and run your notebook directly on GitHub)?  
