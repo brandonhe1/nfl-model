@@ -40,20 +40,3 @@ Each matchup is represented using **team-level performance metrics** and **advan
 6. **Evaluates** week-by-week prediction accuracy  
 
 ---
-
-## 📈 Output
-
-- ✅ **Predicted winners** and **win probabilities** for each matchup  
-- 📅 **Weekly accuracy tracking** for both RFC & XGB models  
-- 🧠 **Feature importance visualization** to interpret model behavior  
-
----
-
-## 🚀 Future Improvements
-
-- 📊 Incorporate **DVOA** and **success rate** metrics  
-- 🤕 Add **injury and roster impact** data  
-- 🖥️ Build a **live Power BI or Streamlit dashboard** for visualization  
-- ⚔️ Experiment with **ensemble and deep learning models**
-
----
